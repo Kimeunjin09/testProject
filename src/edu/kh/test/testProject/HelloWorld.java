@@ -9,5 +9,7 @@ public class HelloWorld {
 		
 		System.out.println("14 * 19 = 266");
 		System.out.println("14 * 19 = " + 14 * 19);
+		
+		System.out.pritln("안녕? 날 보고있니?")
 	}
 }
